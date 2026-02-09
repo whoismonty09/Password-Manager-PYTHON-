@@ -14,7 +14,7 @@ This project is a Python console-based Password Manager that allows users to sec
 ---
 
 ## 🛠 Technologies Used  
-- Python  
+- Python
 - File Handling  
 - Dictionary / Lists  
 
