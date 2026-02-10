@@ -1,6 +1,7 @@
 import os
 
 file_name = "passwords.txt"
+print("Password Manager developed by Monty")
 
 def add_password():
     site = input("Enter website name: ")
